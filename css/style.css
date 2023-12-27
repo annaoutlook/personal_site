@@ -428,3 +428,12 @@
 .testimonial-carousel .owl-dot.active::after {
     background: var(--primary);
 }
+
+.img-fluid {
+    height: 280px;
+    width: 100%;
+}
+
+.landing-img {
+    height: auto;
+}
